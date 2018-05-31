@@ -1,0 +1,7 @@
+site_name: Nithin's GitHub
+pages:
+    - Home: index.md
+    - Microsoft: Microsoft.md
+    - About: about.md
+    - License: license.md
+    - disclaimer: disclaimer.md
